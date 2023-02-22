@@ -11,6 +11,8 @@ Gerber files are available
 
 The board measures 44x25.5mm and is a dual layer configuration.  
 
+<img width="812" alt="PCB with dimensions" src="https://user-images.githubusercontent.com/79807855/220770830-44547f20-1fd5-4a4a-938b-8b734e88763f.PNG">
+
 # Components
 
 The XDS-110 connector CON1 is a Samtec TML-110-01-G-D-SM  
